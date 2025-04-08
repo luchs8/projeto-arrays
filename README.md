@@ -6,7 +6,10 @@
 <br>
 <br>
 
-<img src=""/>
-
-<img src=""/>
-
+<img src="https://github.com/luchs8/projeto-arrays/blob/main/img/Desktop1.png"/>
+<br>
+<img src="https://github.com/luchs8/projeto-arrays/blob/main/img/Desktop2.png"/>
+<br>
+<img src="https://github.com/luchs8/projeto-arrays/blob/main/img/Desktop3.png"/>
+<br>
+<img src="https://github.com/luchs8/projeto-arrays/blob/main/img/Desktop4.png"/>
